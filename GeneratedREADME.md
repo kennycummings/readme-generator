@@ -1,8 +1,8 @@
-# K
+# Kenny
 
-![License Badge](https://img.shields.io/badge/License-Apache-blue)
+![License Badge](https://img.shields.io/badge/License-GNU-blue)
 
-K
+Is
 
 ## Table of Contents
 
@@ -15,15 +15,15 @@ K
 
 ## Installation
 
-K
+Working
 
 ## Use
 
-K
+By typing in terminal
 
 ## License
 
-This project is licensed under the [Apache]([License Link](https://opensource.org/licenses/Apache)) license.
+This project is licensed under the [GNU]([License Link](https://opensource.org/licenses/GNU)) license.
 
 ## Contributors
 
@@ -31,11 +31,11 @@ K
 
 ## Test Instructions
 
-K
+L
 
 ## Questions
 
-Contact me on GitHub at [K](https://www.github.com/K)
+Contact me on GitHub at [P](https://www.github.com/P)
 
-Email me at [K](mailto:K)
+Email me at [L](mailto:L)
 
