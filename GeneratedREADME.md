@@ -1,41 +1,41 @@
-# k
+# K
 
-![License Badge](https://img.shields.io/badge/License-MIT-blue)
+![License Badge](https://img.shields.io/badge/License-Apache-blue)
 
-k
+K
 
 ## Table of Contents
 
 * [Installation](#installation)
 * [Use](#use)
 * [License](#license)
-* [Contributers](#contributers)
+* [Contributors](#contributors)
 * [Test Instructions](#test_instructions)
 * [Questions](#questions)
 
 ## Installation
 
-k
+K
 
 ## Use
 
-k
+K
 
 ## License
 
-MIT
+This project is licensed under the [Apache]([License Link](https://opensource.org/licenses/Apache)) license.
 
-## Contributers
+## Contributors
 
-k
+K
 
 ## Test Instructions
 
-k
+K
 
 ## Questions
 
-Contact me on github at [k](https://www.github.com/k)
+Contact me on GitHub at [K](https://www.github.com/K)
 
-Email me at [k](mailto:k)
+Email me at [K](mailto:K)
 
