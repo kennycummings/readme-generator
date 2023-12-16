@@ -33,4 +33,4 @@ This application supports the following licenses:
 
 GitHub repo: https://github.com/kennycummings/readme-generator
 
-Instructional video: https://watch.screencastify.com/v/RTEeckgUAjqfgP0DCJRK
+Walkthrough: https://watch.screencastify.com/v/RTEeckgUAjqfgP0DCJRK
