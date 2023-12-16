@@ -1,8 +1,8 @@
-# Kenny
+# GenerateREADME
 
-![License Badge](https://img.shields.io/badge/License-GNU-blue)
+![License Badge](https://img.shields.io/badge/License-MIT-blue)
 
-Is
+This is a JavaScript project using Node.
 
 ## Table of Contents
 
@@ -15,27 +15,27 @@ Is
 
 ## Installation
 
-Working
+Install the npm packages.
 
 ## Use
 
-By typing in terminal
+See guided video.
 
 ## License
 
-This project is licensed under the [GNU]([License Link](https://opensource.org/licenses/GNU)) license.
+This project is licensed under the [MIT]([License Link](https://opensource.org/licenses/MIT)) license.
 
 ## Contributors
 
-K
+By commiting.
 
 ## Test Instructions
 
-L
+See README.
 
 ## Questions
 
-Contact me on GitHub at [P](https://www.github.com/P)
+Contact me on GitHub at [kenny-cummings](https://www.github.com/kenny-cummings)
 
-Email me at [L](mailto:L)
+Email me at [kennethccummings@gmail.com](mailto:kennethccummings@gmail.com)
 

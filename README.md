@@ -5,6 +5,7 @@
 * [Installation](#installation)
 * [Use](#use)
 * [License](#license)
+* [Deployment Links](#links)
 
 ## Installation
 
@@ -27,3 +28,9 @@ This application supports the following licenses:
 <li>MIT</li>
 <li>Apache</li>
 <li>GNU</li>
+
+## Links
+
+GitHub repo: https://github.com/kennycummings/readme-generator
+
+Instructional video: https://watch.screencastify.com/v/RTEeckgUAjqfgP0DCJRK
