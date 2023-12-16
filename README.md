@@ -1,7 +1,4 @@
-# Professional README Generator Starter Code
-
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-# readme-generator
+# README-Generator
 
 ## Table of Contents
 
@@ -11,12 +8,22 @@
 
 ## Installation
 
-{data.install}
+<li>Install Node.js</li>
+
+<li>Clone the repository to your local machine using the following command replacing your-username with your GitHub username: git clone https://github.com/your-username/readme-generator.git</li>
+
+<li>Navigate to the project directory: cd readme-generator</li>
+
+<li>Install the npm packages: npm install</li>
 
 ## Use
 
-{data.use}
+To use this application, see this guided video: 
 
 ## License
 
-{data.license}# readme-generator
+This application supports the following licenses:
+
+<li>MIT</li>
+<li>Apache</li>
+<li>GNU</li>
